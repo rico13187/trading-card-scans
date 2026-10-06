@@ -21,6 +21,7 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1993-94-Fleer](images/1993-94-Fleer/)
 - [1993-94-Fleer-NBA-Internationals](images/1993-94-Fleer-NBA-Internationals/)
 - [1993-94-Fleer-NBA-Superstars](images/1993-94-Fleer-NBA-Superstars/)
+- [1993-94-Upper-Deck](images/1993-94-Upper-Deck/)
 - [1993-Hoops](images/1993-Hoops/)
 - [1993-Hoops-Scoops](images/1993-Hoops-Scoops/)
 - [1994-95-Fleer](images/1994-95-Fleer/)
