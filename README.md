@@ -10,6 +10,7 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 
 ## Series
 
+- [1989-Hoops](images/1989-Hoops/)
 - [1990-Fleer](images/1990-Fleer/)
 - [1990-Fleer-All-Star](images/1990-Fleer-All-Star/)
 - [1990-Hoops](images/1990-Hoops/)
