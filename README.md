@@ -10,6 +10,11 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 
 ## Series
 
+- [1990-Hoops](images/1990-Hoops/)
+- [1991-Hoops](images/1991-Hoops/)
+- [1992-Hoops](images/1992-Hoops/)
 - [1993-Hoops](images/1993-Hoops/)
 - [1993-Hoops-Scoops](images/1993-Hoops-Scoops/)
+- [1994-Hoops](images/1994-Hoops/)
+- [1995-Hoops](images/1995-Hoops/)
 - [2024-25-Topps-Flagship-NBA](images/2024-25-Topps-Flagship-NBA/)
