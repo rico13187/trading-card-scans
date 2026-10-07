@@ -33,6 +33,7 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1995-96-Fleer](images/1995-96-Fleer/)
 - [1995-96-Hoops](images/1995-96-Hoops/)
 - [1995-96-Hoops-Slamland](images/1995-96-Hoops-Slamland/)
+- [1995-96-Upper-Deck](images/1995-96-Upper-Deck/)
 - [1995-Hoops](images/1995-Hoops/)
 - [1996-97-Fleer](images/1996-97-Fleer/)
 - [1996-Hoops](images/1996-Hoops/)
