@@ -28,6 +28,8 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1993-94-Fleer-NBA-Superstars](images/1993-94-Fleer-NBA-Superstars/)
 - [1993-94-SkyBox-Premium](images/1993-94-SkyBox-Premium/)
 - [1993-94-Stadium-Club](images/1993-94-Stadium-Club/)
+- [1993-94-Ultra](images/1993-94-Ultra/)
+- [1993-94-Ultra-Rebound-King](images/1993-94-Ultra-Rebound-King/)
 - [1993-94-Upper-Deck](images/1993-94-Upper-Deck/)
 - [1993-Hoops](images/1993-Hoops/)
 - [1993-Hoops-Scoops](images/1993-Hoops-Scoops/)
