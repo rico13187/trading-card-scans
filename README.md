@@ -17,6 +17,7 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1991-92-Upper-Deck](images/1991-92-Upper-Deck/)
 - [1991-Fleer](images/1991-Fleer/)
 - [1991-Hoops](images/1991-Hoops/)
+- [1992-93-Stadium-Club](images/1992-93-Stadium-Club/)
 - [1992-93-Upper-Deck](images/1992-93-Upper-Deck/)
 - [1992-Fleer](images/1992-Fleer/)
 - [1992-Hoops](images/1992-Hoops/)
