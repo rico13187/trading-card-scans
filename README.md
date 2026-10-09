@@ -90,4 +90,5 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1996-Upper-Deck-German-Kelloggs](images/1996-Upper-Deck-German-Kelloggs/)
 - [1997-98-Ultra](images/1997-98-Ultra/)
 - [1997-98-Upper-Deck](images/1997-98-Upper-Deck/)
+- [2024-25-Panini-Select-Basketball](images/2024-25-Panini-Select-Basketball/)
 - [2024-25-Topps-Flagship-NBA](images/2024-25-Topps-Flagship-NBA/)
