@@ -92,6 +92,7 @@ Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and 
 - [1997-98-Upper-Deck](images/1997-98-Upper-Deck/)
 - [2023-24-Panini-Hoops-Premium-Stock-Basketball](images/2023-24-Panini-Hoops-Premium-Stock-Basketball/)
 - [2024-25-Panini-Mosaic-Basketball](images/2024-25-Panini-Mosaic-Basketball/)
+- [2023-24-Panini-Donruss-Optic-Basketball](images/2023-24-Panini-Donruss-Optic-Basketball/)
 - [2024-25-Panini-Donruss-Basketball](images/2024-25-Panini-Donruss-Basketball/)
 - [2024-25-Panini-Select-Basketball](images/2024-25-Panini-Select-Basketball/)
 - [2024-25-Topps-Flagship-NBA](images/2024-25-Topps-Flagship-NBA/)
