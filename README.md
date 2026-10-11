@@ -4,7 +4,7 @@ This repository contains the public JPG scans for the processed trading card ser
 
 Image base URL:
 
-`https://rico13187.github.io/trading-card-scans/images/`
+`https://raw.githubusercontent.com/rico13187/trading-card-scans/main/images/`
 
 Filenames follow `ID_Spieler_Serie_Seite.jpg`; `Seite` is `1` for the front and `2` for the back.
 
